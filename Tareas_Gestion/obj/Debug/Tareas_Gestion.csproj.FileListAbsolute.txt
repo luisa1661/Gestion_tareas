@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\bin\Debug\Tareas_Gestion.exe.config
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\bin\Debug\Tareas_Gestion.exe
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\bin\Debug\Tareas_Gestion.pdb
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\obj\Debug\Tareas_Gestion.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\obj\Debug\Tareas_Gestion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\obj\Debug\Tareas_Gestion.exe
+C:\Users\usuario\Desktop\Gestion de tareas\Tareas_Gestion\obj\Debug\Tareas_Gestion.pdb
